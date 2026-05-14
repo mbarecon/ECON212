@@ -1,11 +1,101 @@
 ID,Name,Gender,Major,GPA
-1,Michael,Male,Finance,3.4
-2,Ava,Female,Marketing,3.8
-3,Jordan,Nonbinary,Economics,3.2
-4,Sophia,Female,Accounting,3.9
-5,Michael,Male,Business Analytics,3.1
-6,Liam,Male,Management,2.9
-7,Emma,Female,Finance,3.5
-8,Noah,Male,Economics,3.0
-9,Olivia,Female,Marketing,3.7
-10,Daniel,Male,Accounting,3.3
+1,Michael,Male,Finance,2.27
+2,Sofia,Female,Marketing,2.44
+3,Daniel,Male,Accounting,2.61
+4,Michael,Male,Economics,2.78
+5,Aaliyah,Female,Management,2.95
+6,Ethan,Male,Business Analytics,3.12
+7,Isabella,Female,Information Systems,3.29
+8,Noah,Male,International Business,3.46
+9,Olivia,Female,Supply Chain Management,3.63
+10,Liam,Male,Human Resources,3.8
+11,Emma,Female,Finance,3.97
+12,Mason,Male,Marketing,2.23
+13,Ava,Female,Accounting,2.4
+14,Lucas,Male,Economics,2.57
+15,Mia,Female,Management,2.74
+16,James,Male,Business Analytics,2.91
+17,Charlotte,Female,Information Systems,3.08
+18,Benjamin,Male,International Business,3.25
+19,Amelia,Female,Supply Chain Management,3.42
+20,Elijah,Male,Human Resources,3.59
+21,Harper,Female,Finance,3.76
+22,Alexander,Male,Marketing,3.93
+23,Evelyn,Female,Accounting,2.19
+24,Henry,Male,Economics,2.36
+25,Abigail,Female,Management,2.53
+26,Sebastian,Male,Business Analytics,2.7
+27,Emily,Female,Information Systems,2.87
+28,Jack,Male,International Business,3.04
+29,Ella,Female,Supply Chain Management,3.21
+30,Owen,Male,Human Resources,3.38
+31,Scarlett,Female,Finance,3.55
+32,Samuel,Male,Marketing,3.72
+33,Grace,Female,Accounting,3.89
+34,Logan,Male,Economics,2.15
+35,Chloe,Female,Management,2.32
+36,Jacob,Male,Business Analytics,2.49
+37,Victoria,Female,Information Systems,2.66
+38,Levi,Male,International Business,2.83
+39,Riley,Female,Supply Chain Management,3
+40,Jackson,Male,Human Resources,3.17
+41,Aria,Female,Finance,3.34
+42,Mateo,Male,Marketing,3.51
+43,Lily,Female,Accounting,3.68
+44,David,Male,Economics,3.85
+45,Zoey,Female,Management,2.11
+46,Joseph,Male,Business Analytics,2.28
+47,Nora,Female,Information Systems,2.45
+48,Carter,Male,International Business,2.62
+49,Hannah,Female,Supply Chain Management,2.79
+50,Julian,Male,Human Resources,2.96
+51,Layla,Female,Finance,3.13
+52,Wyatt,Male,Marketing,3.3
+53,Avery,Female,Accounting,3.47
+54,John,Male,Economics,3.64
+55,Sofiah,Female,Management,3.81
+56,Luke,Male,Business Analytics,3.98
+57,Penelope,Female,Information Systems,2.24
+58,Gabriel,Male,International Business,2.41
+59,Ellie,Female,Supply Chain Management,2.58
+60,Isaac,Male,Human Resources,2.75
+61,Madison,Female,Finance,2.92
+62,Anthony,Male,Marketing,3.09
+63,Luna,Female,Accounting,3.26
+64,Dylan,Male,Economics,3.43
+65,Camila,Female,Management,3.6
+66,Leo,Male,Business Analytics,3.77
+67,Stella,Female,Information Systems,3.94
+68,Lincoln,Male,International Business,2.2
+69,Zoe,Female,Supply Chain Management,2.37
+70,Jaxon,Male,Human Resources,2.54
+71,Natalie,Female,Finance,2.71
+72,Asher,Male,Marketing,2.88
+73,Mila,Female,Accounting,3.05
+74,Christopher,Male,Economics,3.22
+75,Brooklyn,Female,Management,3.39
+76,Josiah,Male,Business Analytics,3.56
+77,Lucy,Female,Information Systems,3.73
+78,Andrew,Male,International Business,3.9
+79,Paisley,Female,Supply Chain Management,2.16
+80,Thomas,Male,Human Resources,2.33
+81,Claire,Female,Finance,2.5
+82,Joshua,Male,Marketing,2.67
+83,Skylar,Female,Accounting,2.84
+84,Ezra,Male,Economics,3.01
+85,Anna,Female,Management,3.18
+86,Hudson,Male,Business Analytics,3.35
+87,Caroline,Female,Information Systems,3.52
+88,Charles,Male,International Business,3.69
+89,Genesis,Female,Supply Chain Management,3.86
+90,Caleb,Male,Human Resources,2.12
+91,Kennedy,Female,Finance,2.29
+92,Isaiah,Male,Marketing,2.46
+93,Samantha,Female,Accounting,2.63
+94,Ryan,Male,Economics,2.8
+95,Sarah,Female,Management,2.97
+96,Nathan,Male,Business Analytics,3.14
+97,Alice,Female,Information Systems,3.31
+98,Adrian,Male,International Business,3.48
+99,Ruby,Female,Supply Chain Management,3.65
+100,Christian,Male,Human Resources,3.82
